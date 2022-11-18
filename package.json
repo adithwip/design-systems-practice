@@ -18,7 +18,7 @@
   "homepage": "https://github.com/adithwip/design-systems-practice#readme",
   "devDependencies": {
     "@storybook/addon-options": "^5.2.1",
-    "@storybook/react": "^5.2.1",
+    "@storybook/react": "^6.5.13",
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
     "babel-preset-env": "^1.7.0",
